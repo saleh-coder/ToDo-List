@@ -35,7 +35,7 @@ A simple to-do list application to manage tasks, built with HTML, CSS, and JavaS
 5. Tasks will be saved in `localStorage`, so they persist even after a page refresh.
 
 ## 📸 Screenshots
-*Insert a screenshot here to show the visual layout of the app.*
+![ToDo-list.png](images/ToDo-list.png)
 
 ## 🤝 Contributing
 Feel free to fork this repository, open issues, and submit pull requests if you want to improve the project.
